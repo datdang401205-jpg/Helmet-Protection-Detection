@@ -1,0 +1,12 @@
+# requirements.txt
+# Các thư viện cần thiết cho dự án Helmet Detection
+
+streamlit>=1.35.0      # Web demo (tùy chọn)
+ultralytics>=8.0.196   # Thư viện YOLOv8 chính
+opencv-python>=4.9.0   # Xử lý ảnh/video và hiển thị webcam
+Pillow>=10.3.0         # Hỗ trợ xử lý ảnh tĩnh
+numpy>=1.26.0          # Xử lý ma trận, tensor
+pyyaml>=6.0.1          # Đọc và ghi file YAML (cấu hình YOLO)
+matplotlib>=3.8.0      # Vẽ biểu đồ khi đánh giá mô hình
+torch>=2.2.0           # Backend PyTorch cho YOLOv8
+torchvision>=0.17.0    # Hỗ trợ load dữ liệu và xử lý ảnh PyTorch

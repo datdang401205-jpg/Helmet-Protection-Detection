@@ -1,0 +1,9 @@
+train: ./data/rider-dataset/train/images
+val: ./data/rider-dataset/val/images
+
+nc: 4
+names:
+  - with helmet
+  - without helmet
+  - rider
+  - number_plate
