@@ -57,6 +57,10 @@ python src/realtime_detect.py
 ```bash
 python src/video_detect.py
 
+### 6️⃣ Phát hiện trên livestream YouTube 🆕
+#Chạy file này và cung cấp URL livestream cùng đường dẫn file cookies (nếu cần xác thực).
+```bash
+python src/youtube_detect.py
 🧠 Công nghệ sử dụng
 
 YOLOv8 (Ultralytics)
