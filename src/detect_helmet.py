@@ -12,8 +12,8 @@ import os
 # ------------------------------------------------
 # 1. Cấu hình đường dẫn và tham số
 # ------------------------------------------------
-MODEL_PATH = "models/best.pt"   # Mô hình YOLO đã huấn luyện
-TEST_IMAGE = "data/demo1.png"   # Ảnh test
+MODEL_PATH = "/Users/Admin/Documents/clone_AI/Helmet-Detection/models/best.pt"   # Mô hình YOLO đã huấn luyện
+TEST_IMAGE = "/Users\Admin/Documents/clone_AI/Helmet-Detection/data/demo5.png"   # Ảnh test
 CONF_THRES = 0.25               # Ngưỡng confidence
 
 # ------------------------------------------------

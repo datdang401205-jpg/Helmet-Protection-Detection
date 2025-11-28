@@ -10,7 +10,7 @@ import os
 model = YOLO("models/best.pt")
 
 # 2. Đường dẫn đến video nguồn
-video_path = "data/demo1.mp4"  # đổi tên nếu bạn có video khác
+video_path = "C:\Users\Admin\Documents\clone_AI\Helmet-Detection\data\demo1.mp4"  # đổi tên nếu bạn có video khác
 
 # 3. Tạo thư mục lưu kết quả
 save_dir = "runs/video_detect"
