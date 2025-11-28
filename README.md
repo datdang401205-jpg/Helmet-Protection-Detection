@@ -1,5 +1,14 @@
-# Helmet-Detection
+# Helmet-Protection-Detection
 
+Học phần: MAT3508 – Nhập môn trí tuệ nhân tạo
+Học kỳ: Học kỳ 1, Năm học 2025-2026
+Trường: VNU-HUS (Đại học Quốc gia Hà Nội – Trường Đại học Khoa học Tự nhiên)
+Tên dự án: Helmet Protection Detection AI
+Ngày nộp: 30/11/2025
+Báo cáo PDF: Liên kết tới báo cáo PDF trong kho GitHub
+Slide thuyết trình: Liên kết tới slide thuyết trình trong kho GitHub
+
+Kho GitHub: https://github.com/datdang401205-jpg/Helmet-Detection
 ## 🧩 Giới thiệu
 Dự án phát hiện người **có hoặc không đội mũ bảo hiểm** sử dụng mô hình **YOLOv8** của Ultralytics.  
 Ứng dụng có thể nhận dạng **trên ảnh, video, hoặc webcam realtime**, hỗ trợ cho hệ thống giám sát giao thông thông minh.
