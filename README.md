@@ -1,11 +1,17 @@
 # Helmet-Protection-Detection
 
 Học phần: MAT3508 – Nhập môn trí tuệ nhân tạo
+
 Học kỳ: Học kỳ 1, Năm học 2025-2026
+
 Trường: VNU-HUS (Đại học Quốc gia Hà Nội – Trường Đại học Khoa học Tự nhiên)
+
 Tên dự án: Helmet Protection Detection AI
+
 Ngày nộp: 30/11/2025
+
 Báo cáo PDF: https://github.com/datdang401205-jpg/Helmet-Protection-Detection/blob/main/B%C3%A1o%20c%C3%A1o%20nh%E1%BA%ADp%20m%C3%B4n%20AI.pdf
+
 Slide thuyết trình: https://github.com/datdang401205-jpg/Helmet-Protection-Detection/blob/main/slide%20thuy%E1%BA%BFt%20tr%C3%ACnh%20nh%E1%BA%ADp%20m%C3%B4n%20AI.pdf
 
 Kho GitHub: https://github.com/datdang401205-jpg/Helmet-Detection
