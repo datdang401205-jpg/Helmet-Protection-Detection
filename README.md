@@ -22,7 +22,7 @@ Dự án phát hiện người **có hoặc không đội mũ bảo hiểm** s�
 ---
 
 ## 👥 Nhóm thực hiện
-**Nhóm 15 – Môn Nhập môn AI**
+**Nhóm 15 – Môn Nhập môn Trí Tuệ Nhân tạo**
 
 | Họ và tên          | MSSV      | GitHub username          |
 |--------------------|-----------|--------------------------|
