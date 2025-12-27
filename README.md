@@ -10,7 +10,7 @@ Tên dự án: Helmet Protection Detection AI
 
 Ngày nộp: 30/11/2025
 
-Báo cáo PDF: https://github.com/datdang401205-jpg/Helmet-Protection-Detection/blob/main/B%C3%A1o%20c%C3%A1o%20nh%E1%BA%ADp%20m%C3%B4n%20Tr%C3%AD%20tu%E1%BB%87%20Nh%C3%A2n%20t%E1%BA%A1o.pdf
+Báo cáo PDF: https://github.com/datdang401205-jpg/Helmet-Protection-Detection/blob/main/B%C3%A1o%20c%C3%A1o%20nh%E1%BA%ADp%20m%C3%B4n%20tr%C3%AD%20tu%E1%BB%87%20nh%C3%A2n%20t%E1%BA%A1o.pdf
 
 Slide thuyết trình: https://github.com/datdang401205-jpg/Helmet-Protection-Detection/blob/main/slide%20thuy%E1%BA%BFt%20tr%C3%ACnh%20nh%E1%BA%ADp%20m%C3%B4n%20Tr%C3%AD%20tu%E1%BB%87%20Nh%C3%A2n%20t%E1%BA%A1o.pdf
 
